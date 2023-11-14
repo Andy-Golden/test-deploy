@@ -21,7 +21,7 @@ const NavbarLayout = (): JSX.Element => {
           <div className="left-side__menu">
             <ul className="options">
               <li className="option">
-                <Link to="/">Home</Link>
+                <Link to="/">Lucky</Link>
               </li>
               <li className="option">
                 <Link to="/">Management</Link>
